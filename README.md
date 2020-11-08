@@ -1,3 +1,3 @@
 # LastroBC.github.io
 
-HW 1 is need completing/updating for resubmittal
+HW 1 needs further completing/updating for resubmittal
